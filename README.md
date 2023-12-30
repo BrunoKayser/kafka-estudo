@@ -8,8 +8,7 @@ Neste estudo aprendi as seguintes funcionalidades:
   - Postar em um tópico;
   - Ler mensagens de um tópico;
   - Funcionamento das partições;
-  - Retentativas;
-  - Tratamentos de erros e DLQ;
+  - Tratamentos de erros, retentativas e DLQ;
   - Manipulação do Kafka por terminal
 
 Caso queira sugerir algo a mais para estudar ou sanar alguma dúvida, entre em contato através do meu <a href= "https://www.linkedin.com/in/bruno-kayser-b97b75100/"> linkedin </a> .  
